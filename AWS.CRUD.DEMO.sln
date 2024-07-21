@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS.CRUD.DEMO", "AWS.CRUD.DEMO\AWS.CRUD.DEMO.csproj", "{19A9D235-E21D-4737-B0C2-EBB620EE3E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A9D235-E21D-4737-B0C2-EBB620EE3E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A9D235-E21D-4737-B0C2-EBB620EE3E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A9D235-E21D-4737-B0C2-EBB620EE3E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A9D235-E21D-4737-B0C2-EBB620EE3E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA57DDB1-E69B-4EE0-B65E-7B57165095B7}
+	EndGlobalSection
+EndGlobal

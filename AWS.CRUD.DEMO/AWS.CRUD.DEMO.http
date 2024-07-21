@@ -1,0 +1,6 @@
+@AWS.CRUD.DEMO_HostAddress = http://localhost:5150
+
+GET {{AWS.CRUD.DEMO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
